@@ -1,7 +1,6 @@
 import json
 import pygame
 import socket
-import sys
 
 pygame.init() #Initializes the modules needed for PyGame
 screen = pygame.display.set_mode((400, 300)) #Creates a window of the desired size
